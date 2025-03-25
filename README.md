@@ -14,7 +14,7 @@ Technologies Used
 - CSS: Custom styling to enhance the user experience.
 - JavaScript: Handles the functionality of the book search, including fetching data from the Google Books API and dynamically displaying results.
 - Google Books API: Used to fetch book data based on the search query.
-- 
+
  How to Use
 1. Clone or download the repository to your local machine.
 2. Open the `INDEX.html` file in a web browser.
